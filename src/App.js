@@ -2,7 +2,7 @@
 import React, { Component } from 'react'
 
 import uuid from 'uuid';
-import 'bootstrap/dist/css/bootstrap.min.css';
+//import 'bootstrap/dist/css/bootstrap.min.css';
 
 import ToDoList from './components/ToDoList';
 import ToDoInput from './components/ToDoInput';
